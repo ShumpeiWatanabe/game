@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pinball2", "pinball2\pinball2.vcproj", "{98BB5637-39FB-4748-930D-A6A394161BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BB5637-39FB-4748-930D-A6A394161BDC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98BB5637-39FB-4748-930D-A6A394161BDC}.Debug|Win32.Build.0 = Debug|Win32
+		{98BB5637-39FB-4748-930D-A6A394161BDC}.Release|Win32.ActiveCfg = Release|Win32
+		{98BB5637-39FB-4748-930D-A6A394161BDC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
