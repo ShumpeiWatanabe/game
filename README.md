@@ -1,7 +1,7 @@
 game
 ====
 
-![](https://github.com/ShumpeiWatanabe/game/play.png)
+![Myimage](https://raw.github.com/ShumpeiWatanabe/game/master/play.png)
 
 開発環境は　Windows xp visual studio express です。
 game/Debug/pinball2.exeを実行することで開始します。
